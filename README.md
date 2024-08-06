@@ -1,2 +1,2 @@
 # base
-base repo
+base repo for git commands demostration
