@@ -1,5 +1,10 @@
-def mulitpy(x,y):
-    result = x*y
+def multiply(x, y):
+    result = x * y
     return result
 
-print(mulitpy(3,3))
+# Get input from the user
+x = int(input("Enter the first number: "))
+y = int(input("Enter the second number: "))
+
+# Call the function and print the result
+print(multiply(x, y))
